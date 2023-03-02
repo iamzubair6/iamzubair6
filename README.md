@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ZUBAIR-RAHMAN/ZUBAIR-RAHMAN**
+**ZUBAIR RAHMAN**
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
