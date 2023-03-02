@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ZUBAIR-RAHMAN/ZUBAIR-RAHMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZUBAIR-RAHMAN/ZUBAIR-RAHMAN**
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
