@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzubair6&label=Profile%20views&color=0e75b6&style=flat" alt="zubair-rahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamzubair6" alt="zubair-rahman" /></a> </p>
-
 - 📫 How to reach me **zubair.rahman89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
