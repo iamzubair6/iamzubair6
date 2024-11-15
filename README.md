@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Greetings! 👋 I'm Zubair Rahman, a passionate Frontend Developer with over 1 year of hands-on experience in crafting delightful and efficient user interfaces. My expertise lies in React.js and Next.js, and I am well-versed in popular UI libraries like Material-UI, Tailwind CSS, Shadcn, and Ant Design.</h3>
+<h3 align="center">Greetings! 👋 I'm Zubair Rahman, a passionate Frontend Developer with over 2 year of hands-on experience in crafting delightful and efficient user interfaces. My expertise lies in React.js and Next.js, and I am well-versed in popular UI libraries like Material-UI, Tailwind CSS, Shadcn, and Ant Design.</h3>
 
 ###
 
